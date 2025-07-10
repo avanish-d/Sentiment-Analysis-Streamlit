@@ -33,15 +33,16 @@ A web-based **Sentiment Analysis** tool built with **Streamlit** that analyzes A
 1. Positive Analysis 
  ![Prediction Output](https://github.com/avanish-d/Sentiment-Analysis-Streamlit/blob/main/images/Screenshot%202025-07-10%20223505.png)
 2. Negative Analysis
-   ![Prediction Output](<img width="1280" height="558" alt="Screenshot 2025-07-10 223534" src="https://github.com/user-attachments/assets/d6959a0d-92e3-4b56-81ee-4db2b2e28608" />)
+   ![Prediction Output](https://github.com/avanish-d/Sentiment-Analysis-Streamlit/blob/main/images/Screenshot%202025-07-10%20223534.png)
 
 3. Neutral Analysis
-   ![Prediction Output](<img width="1579" height="681" alt="Screenshot 2025-07-10 233350" src="https://github.com/user-attachments/assets/51c993c1-4125-4ae3-96c5-69615c79d2f3" />
+   ![Prediction Output](https://github.com/avanish-d/Sentiment-Analysis-Streamlit/blob/main/images/Screenshot%202025-07-10%20233350.png
 )
 
+4. Analysis in the form of pie chart
 
-| ![Pie Chart](<img width="1242" height="908" alt="Screenshot 2025-07-10 233420" src="https://github.com/user-attachments/assets/3c03af85-e708-478e-bdcc-1bfd0fcf13b3" />
-)
+  ![Pie Chart](https://github.com/avanish-d/Sentiment-Analysis-Streamlit/blob/main/images/Screenshot%202025-07-10%20233420.png)
+
 
 
 ---

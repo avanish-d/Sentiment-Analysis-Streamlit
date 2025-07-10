@@ -59,8 +59,8 @@ A web-based **Sentiment Analysis** tool built with **Streamlit** that analyzes A
 ### 🧰 2. Create and activate virtual environment (optional but recommended)
         python -m venv venv
         venv\Scripts\activate  # for Windows
-###📦 3. Install dependencies
-        pip install -r requirements.txt
-        
+###📦  3. Install dependencies
 ###🚀 4. Run the Streamlit app
-       streamlit run app.py
+```bash
+        !pip install -r requirements.txt
+        streamlit run app.py

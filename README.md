@@ -31,8 +31,7 @@ A web-based **Sentiment Analysis** tool built with **Streamlit** that analyzes A
 | Output Examples |
 |-----------------|
 1. Positive Analysis 
- ![Prediction Output](<img width="1318" height="587" alt="Screenshot 2025-07-10 223505" src="https://github.com/user-attachments/assets/713687a7-fa86-4637-93a9-fd10d2d65626" />)
-
+ ![Prediction Output](https://github.com/avanish-d/Sentiment-Analysis-Streamlit/blob/main/images/Screenshot%202025-07-10%20223505.png)
 2. Negative Analysis
    ![Prediction Output](<img width="1280" height="558" alt="Screenshot 2025-07-10 223534" src="https://github.com/user-attachments/assets/d6959a0d-92e3-4b56-81ee-4db2b2e28608" />)
 

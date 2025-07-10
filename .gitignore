@@ -1,0 +1,71 @@
+# ====================
+# Python & Virtual Env
+# ====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+*.egg-info/
+*.egg
+*.log
+
+# ====================
+# Jupyter Notebook
+# ====================
+.ipynb_checkpoints/
+
+# ====================
+# VS Code / IDEs
+# ====================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ====================
+# OS / System
+# ====================
+.DS_Store
+Thumbs.db
+
+# ====================
+# Environment / Secrets
+# ====================
+.env
+.env.*
+*.env
+*.ini
+*.cfg
+*.json
+
+# ====================
+# Streamlit Cache
+# ====================
+.streamlit/
+*.pydevproject
+.cache/
+
+# ====================
+# Model/Output Files
+# ====================
+*.h5
+*.pkl
+*.joblib
+*.csv
+*.db
+*.sqlite3
+*.model
+*.npy
+*.npz
+*.sav
